@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeYuva</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_confirm_pickup">ConfirmPickupActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_product">ProductActivity</string>
+</resources>
